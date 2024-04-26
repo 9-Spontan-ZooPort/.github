@@ -1,4 +1,4 @@
-# Spontan Team by Brawijaya University
+# Spontan Team from Brawijaya University
 A team for Social Startup Games Hackfest 2024 by Ciputra University.
 
 ## Group Member
